@@ -8,5 +8,5 @@
 ## Применение Python на практике.
 4. []()  
 5. [Регулярные выражения](/DZ_lecture_5.Regular_expressions)  
-6. []()
+6. [«Web-scrapping»](/DZ_lecture_6.Web-scrapping)
 7. []()  
