@@ -2,7 +2,7 @@
 
 ## Профессиональная работа с Python.
 1. [Модули, пакеты, импорты в Python](/DZ_lecture_1.Import.Module.Package)  
-2. []()    
+2. [Iterators. Generators. Yield](/DZ_lecture_2.Iterators.Generators.Yield)    
 3. []() 
 
 ## Применение Python на практике.

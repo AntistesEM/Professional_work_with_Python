@@ -1,5 +1,6 @@
 .venv
 .idea
+__pycache__
 /DZ_lecture_1.Import.Module.Package/application/__pycache__
 /DZ_lecture_1.Import.Module.Package/application/db/__pycache__
 /DZ_lecture_1. Import. Module. Package
