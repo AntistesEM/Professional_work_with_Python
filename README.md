@@ -6,7 +6,7 @@
 3. [Decorators](/DZ_lecture_3.Decorators) 
 
 ## Применение Python на практике.
-4. []()  
+4. [Разработка тестов](DZ_lecture_4.Tests)  
 5. [Регулярные выражения](/DZ_lecture_5.Regular_expressions)  
 6. [«Web-scrapping»](/DZ_lecture_6.Web-scrapping)
 7. []()  
