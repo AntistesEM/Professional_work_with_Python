@@ -9,4 +9,4 @@
 4. [Разработка тестов](DZ_lecture_4.Tests)  
 5. [Регулярные выражения](/DZ_lecture_5.Regular_expressions)  
 6. [«Web-scrapping»](/DZ_lecture_6.Web-scrapping)
-7. []()  
+7. [Подготовка к собеседованию](/DZ_lecture_7.Preparing_for_an_interview)  
